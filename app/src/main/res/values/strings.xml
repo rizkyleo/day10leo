@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">day10</string>
+    <string name="warung_makan_kocak">Warung Makan Kocak</string>
+    <string name="jumlah_porsi">Jumlah Porsi</string>
+    <string name="pesan">pesan</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="Jumlah_porsi">Jumlah Porsi</string>
+</resources>
